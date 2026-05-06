@@ -12,7 +12,7 @@
 
 ---
 
-### 2) According to Fisher's model, what are the key points of Reflective Listening? (Write in your own words, use simple English)
+### 2) According to Fisher's model, what are the key points of Reflective Listening? 
 
 * Firstly, we need to listen carefully to what the speaker is saying, both words and feelings.
 * Then, we try to understand the real meaning behind their message.
@@ -77,7 +77,7 @@
 
   ---
 
-### 8) How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
+### 8) How can you make your communication assertive?
 
 * I will clearly express my feelings instead of keeping them inside.
 * I will maintain a calm tone and confident body language while speaking.
