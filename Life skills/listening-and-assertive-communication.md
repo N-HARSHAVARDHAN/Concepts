@@ -1,7 +1,7 @@
 # Listening and Active communication:
 
 
-### 1) What are the steps/strategies to do Active Listening? (Minimum 6 points)
+### 1) What are the steps/strategies to do Active Listening? 
 
 * Firstly, we need to avoid getting distracted by our own thoughts.
 * We should not interrupt the person speaking; once the person finishes speaking, we can respond.
@@ -17,7 +17,7 @@
 * Firstly, we need to listen carefully to what the speaker is saying, both words and feelings.
 * Then, we try to understand the real meaning behind their message.
 * We need to repeat what they said in our own understanding.
-*As mentioned, we need to check with the speaker if we have understood correctly.
+* As mentioned, we need to check with the speaker if we have understood correctly.
 * While reflecting, we should avoid judging, arguing, or correcting.
 * While responding, we need to use a calm tone and good body language.
   
