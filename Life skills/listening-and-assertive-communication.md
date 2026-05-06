@@ -8,7 +8,7 @@
 * Use door openers, which are phrases that help build communication and interest for the speaker.
 * Instead of only listening, we need to show that we are listening through our body language.
 * We need to take notes when others are saying important points.
-*We need to paraphrase so both you and the speaker are on the same page.
+* We need to paraphrase so both you and the speaker are on the same page.
 
 ---
 
