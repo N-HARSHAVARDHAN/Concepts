@@ -49,9 +49,7 @@
 * I switch to passive communication when I interact with people I barely know.
 * I switch to passive communication when I don’t want to create conflict or arguments.
 * I switch to passive communication when I am not confident enough.
-* I tend to stay quiet when I am unsure about my opinion or lack confidence in the situation.
 * I use passive communication when I want to avoid hurting someone’s feelings.
-* I agree with others even if I don’t fully agree, just to keep peace.
 * I stay passive in some situations where I feel speaking up is difficult.
 * I switch to passive communication when I face people who are more dominant or are loud speakers
 
